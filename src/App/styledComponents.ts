@@ -5,7 +5,7 @@ export const Container = styled.section`
   flex: 1;
   height: 100vh;
   justify-content: center;
-  padding-top: 30px;
+  padding: 40px;
   box-sizing: border-box;
 `;
 

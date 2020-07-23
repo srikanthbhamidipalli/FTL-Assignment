@@ -11,12 +11,12 @@
           "end_time": "Feb 1 2020 1:54PM"
         },
         {
-          "start_time": "Mar 1 2020  11:11AM",
-          "end_time": "Mar 1 2020 2:00PM"
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
         },
         {
-          "start_time": "Mar 16 2020  5:33PM",
-          "end_time": "Mar 16 2020 8:02PM"
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
         }
       ]
     },
@@ -30,12 +30,259 @@
           "end_time": "Feb 1 2020 1:54PM"
         },
         {
-          "start_time": "Mar 1 2020  11:11AM",
-          "end_time": "Mar 1 2020 2:00PM"
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
         },
         {
-          "start_time": "Mar 16 2020  5:33PM",
-          "end_time": "Mar 16 2020 8:02PM"
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3CDEAR",
+      "real_name": "Dwan Rock",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3zAWCDEOUY",
+      "real_name": "Mattie Hardy",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3ASCDEVCX",
+      "real_name": "Egon Morgan",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A123CDEMBVC",
+      "real_name": "Elon Musk",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Aug 1 2020  1:23PM",
+          "end_time": "Aug 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3C56EHFS",
+      "real_name": "John Carter",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Jul 1 2020  1:23PM",
+          "end_time": "Jul 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3zAWCDEHG",
+      "real_name": "Mattie Hardy",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3ASCDENBV",
+      "real_name": "Egon Morgan",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A123CDEHDFXC",
+      "real_name": "Elon Musk",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Aug 1 2020  1:23PM",
+          "end_time": "Aug 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3C56EIUG",
+      "real_name": "John Carter",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Jul 1 2020  1:23PM",
+          "end_time": "Jul 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3zAWCDEJHF",
+      "real_name": "Mattie Hardy",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3ASCDEBVC",
+      "real_name": "Egon Morgan",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Jul 1 2020  11:11AM",
+          "end_time": "Jul 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 16 2020  5:33PM",
+          "end_time": "Jul 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A123CDEES",
+      "real_name": "Elon Musk",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Aug 1 2020  1:23PM",
+          "end_time": "Aug 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W012A3C56EKG",
+      "real_name": "John Carter",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Jul 1 2020  1:23PM",
+          "end_time": "Jul 1 2020 3:54PM"
+        },
+        {
+          "start_time": "Jul 4 2020  11:11AM",
+          "end_time": "Jul 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Jul 29 2020  5:33PM",
+          "end_time": "Jul 29 2020 8:02PM"
         }
       ]
     }
