@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import { UsersDataType, MemberType } from "../types";
 
 import { Container, LoadingText } from "./styledComponents";
+import UsersList from "../components/UsersList";
 
 const App = () => {
   const [data, setData] = useState<MemberType[]>([]);
@@ -35,7 +36,7 @@ const App = () => {
       {isAPIFetching() ? (
         <LoadingText>{`Loading....`}</LoadingText>
       ) : (
-        `Users List`
+        <UsersList usersData={data} />
       )}
     </Container>
   );
